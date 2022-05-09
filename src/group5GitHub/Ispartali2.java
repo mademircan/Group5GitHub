@@ -1,9 +1,9 @@
 package group5GitHub;
 
-public class Ispartali {
+public class Ispartali2 {
 
     public static void main(String[] args) {
 
-        System.out.println("Roses bloom in June");
+        System.out.println("Mustafa32");
     }
 }
