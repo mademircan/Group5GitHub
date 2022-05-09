@@ -7,3 +7,4 @@ public class FirstClassGroup5 {
         System.out.println("Hello everyone! Great day to code");
     }
 }
+
